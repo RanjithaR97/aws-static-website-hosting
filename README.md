@@ -125,16 +125,15 @@ aws-static-website-hosting/
 ├── README.md
 ├── website/
 │   ├── index.html
-│   ├── style.css
-│   ├── script.js
+│   
 │
 ├── screenshots/
-│   ├── 01-s3-bucket.png
-│   ├── 02-static-hosting.png
-│   ├── 03-cloudfront.png
-│   ├── 04-cloudwatch.png
-│   ├── 05-sns.png
-│   └── 06-final-output.png
+│   ├── 01-S3BucketCreation.png
+│   ├── 02-uploadingstatichtml.png
+│   ├── 03-EnableStaticWebHost.png
+│   ├── 04-ConfigureCloudfront.png
+│   ├── 05-CloudWatchAlaram.png
+│   └── 06-StaticWebsiteOutput.png
 │
 
 
